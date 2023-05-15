@@ -4,11 +4,11 @@
     <OutputType>Exe</OutputType>
     <SonarQubeTestProject>false</SonarQubeTestProject>
     <TargetFrameworks>net6.0</TargetFrameworks>
-    <AssemblyName>Buhler.IoT.Environment.ChangeLogTool</AssemblyName>
+    <AssemblyName>ChangeLogTool</AssemblyName>
 
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>clt</ToolCommandName>
-    <RootNamespace>Buhler.IoT.Environment.ChangeLogTool</RootNamespace>
+    <RootNamespace>ChangeLogTool</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

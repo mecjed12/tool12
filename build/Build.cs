@@ -45,7 +45,7 @@ class Build : NukeBuild
     [GitRepository] readonly GitRepository GitRepository;
     [GitVersion] readonly GitVersion GitVersion;
 
-    readonly string ProjectKey = "Buhler-Changelog-Tool";
+    readonly string ProjectKey = "Changelog-Tool";
 
     AbsolutePath SourceDirectory => RootDirectory / "source";
     AbsolutePath TestsDirectory => RootDirectory / "tests";
