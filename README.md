@@ -10,22 +10,6 @@ In order for the command line utility to work the command needs to be executed f
 
 If any of these preconditions are not fulfilled the tool will tell you about it.
 
-## Installation
-
-This tool will be provided as dotnet tool.
-
-To install tool:
-
-```bash
-dotnet tool install ChangeLogTool -g --add-source https://pkgs.dev.azure.com/buhlergroup/_packaging/buhlergroup-internal/nuget/v3/index.json
-```
-
-To update tool:
-
-```bash
-dotnet tool update ChangeLogTool -g --add-source https://pkgs.dev.azure.com/buhlergroup/_packaging/buhlergroup-internal/nuget/v3/index.json
-```
-
 ## Help
 
 The tool also provides a `help` command which can simply be run via `clt help`
