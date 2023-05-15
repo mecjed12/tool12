@@ -1,8 +1,3 @@
-# Change Log Tool
-
-Every pulled your hair out becaues of merge conclicts resulting from adding or removing a changelog entry... fear no more
-
-![Changelog all the things](docs/changelog-all-the-things.png "Title")
 
 ## Preconditions
 
