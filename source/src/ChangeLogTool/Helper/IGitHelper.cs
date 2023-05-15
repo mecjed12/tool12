@@ -1,5 +1,5 @@
 ﻿
-namespace Buhler.IoT.Environment.ChangeLogTool.Helper
+namespace ChangeLogTool.Helper
 {
     public interface IGitHelper
     {

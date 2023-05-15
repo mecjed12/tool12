@@ -1,4 +1,4 @@
-﻿namespace Buhler.IoT.Environment.ChangeLogTool.ChangeLog
+﻿namespace ChangeLogTool.ChangeLog
 {
     using System;
 

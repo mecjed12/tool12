@@ -2,7 +2,7 @@
 
 using System.IO;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Wrapper
+namespace ChangeLogTool.Wrapper
 {
     public interface IDirectoryInfoWrapper
     {

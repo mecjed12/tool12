@@ -1,8 +1,8 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
-using Buhler.IoT.Environment.ChangeLogTool.Config;
+﻿using ChangeLogTool.CommandLineOptions;
+using ChangeLogTool.Config;
 using System;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tools
+namespace ChangeLogTool.Tools
 {
     public interface IReleaseManager
     {

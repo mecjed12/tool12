@@ -1,15 +1,15 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.ChangeLog;
-using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
-using Buhler.IoT.Environment.ChangeLogTool.Config;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
-using Buhler.IoT.Environment.ChangeLogTool.Tools;
-using Buhler.IoT.Environment.ChangeLogTool.Wrapper;
+﻿using ChangeLogTool.ChangeLog;
+using ChangeLogTool.CommandLineOptions;
+using ChangeLogTool.Config;
+using ChangeLogTool.Helper;
+using ChangeLogTool.Tools;
+using ChangeLogTool.Wrapper;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System;
 using System.IO;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tests
+namespace ChangeLogTool.Tests
 {
     [TestClass]
     public class EntryCreatorTests

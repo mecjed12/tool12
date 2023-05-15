@@ -1,10 +1,10 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
-using Buhler.IoT.Environment.ChangeLogTool.Config;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
+﻿using ChangeLogTool.CommandLineOptions;
+using ChangeLogTool.Config;
+using ChangeLogTool.Helper;
 using System;
 using System.Diagnostics; //NOSONAR
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tools
+namespace ChangeLogTool.Tools
 {
     public class ReleaseManager : IReleaseManager
     {

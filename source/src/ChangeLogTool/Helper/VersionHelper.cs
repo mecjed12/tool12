@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Helper
+namespace ChangeLogTool.Helper
 {
     public static class VersionHelper
     {

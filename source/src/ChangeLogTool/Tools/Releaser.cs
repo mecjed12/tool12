@@ -1,8 +1,8 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.ChangeLog;
-using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
-using Buhler.IoT.Environment.ChangeLogTool.Config;
-using Buhler.IoT.Environment.ChangeLogTool.Exceptions;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
+﻿using ChangeLogTool.ChangeLog;
+using ChangeLogTool.CommandLineOptions;
+using ChangeLogTool.Config;
+using ChangeLogTool.Exceptions;
+using ChangeLogTool.Helper;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -12,7 +12,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tools
+namespace ChangeLogTool.Tools
 {
     public class Releaser : IReleaser
     {

@@ -1,11 +1,11 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.Config;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
+﻿using ChangeLogTool.Config;
+using ChangeLogTool.Helper;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tests
+namespace ChangeLogTool.Tests
 {
     [TestClass]
     public class GitHelperTests

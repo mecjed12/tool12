@@ -1,4 +1,4 @@
-﻿namespace Buhler.IoT.Environment.ChangeLogTool
+﻿namespace ChangeLogTool
 {
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
@@ -7,7 +7,7 @@
     using Microsoft.Extensions.Configuration;
     using System.IO;
     using System.Diagnostics.CodeAnalysis;
-    using Helper;
+    using ChangeLogTool.Helper;
     using Wrapper;
 
     public static class Program

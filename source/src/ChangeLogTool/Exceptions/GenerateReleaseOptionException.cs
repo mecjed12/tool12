@@ -1,4 +1,4 @@
-﻿namespace Buhler.IoT.Environment.ChangeLogTool.Exceptions
+﻿namespace ChangeLogTool.Exceptions
 {
     using System;
     using System.Diagnostics.CodeAnalysis;

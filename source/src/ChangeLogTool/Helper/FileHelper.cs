@@ -1,12 +1,12 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.ChangeLog;
-using Buhler.IoT.Environment.ChangeLogTool.Config;
-using Buhler.IoT.Environment.ChangeLogTool.Wrapper;
+﻿using ChangeLogTool.ChangeLog;
+using ChangeLogTool.Config;
+using ChangeLogTool.Wrapper;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Helper
+namespace ChangeLogTool.Helper
 {
     public class FileHelper : IFileHelper
     {

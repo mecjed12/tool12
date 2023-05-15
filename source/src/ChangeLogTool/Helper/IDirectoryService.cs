@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Helper
+namespace ChangeLogTool.Helper
 {
     public interface IDirectoryService
     {

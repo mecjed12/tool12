@@ -1,4 +1,4 @@
-﻿namespace Buhler.IoT.Environment.ChangeLogTool.Config
+﻿namespace ChangeLogTool.Config
 {
     public interface IAppSettings
     {

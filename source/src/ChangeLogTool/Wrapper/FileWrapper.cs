@@ -3,7 +3,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.IO;
 
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Wrapper
+namespace ChangeLogTool.Wrapper
 {
     [ExcludeFromCodeCoverage]
     public class FileWrapper : IFileWrapper

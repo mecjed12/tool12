@@ -1,11 +1,11 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.Config;
+﻿using ChangeLogTool.Config;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Buhler.IoT.Environment.ChangeLogTool.Tools;
-using Buhler.IoT.Environment.ChangeLogTool.Wrapper;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
+using ChangeLogTool.Tools;
+using ChangeLogTool.Wrapper;
+using ChangeLogTool.Helper;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tests
+namespace ChangeLogTool.Tests
 {
     [TestClass]
     public class ProgramTests

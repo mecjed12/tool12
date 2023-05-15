@@ -1,8 +1,8 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.ChangeLog;
+﻿using ChangeLogTool.ChangeLog;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Helper
+namespace ChangeLogTool.Helper
 {
     public interface IFileHelper
     {

@@ -1,13 +1,13 @@
 ﻿
-using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
-using Buhler.IoT.Environment.ChangeLogTool.Config;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
-using Buhler.IoT.Environment.ChangeLogTool.Tools;
+using ChangeLogTool.CommandLineOptions;
+using ChangeLogTool.Config;
+using ChangeLogTool.Helper;
+using ChangeLogTool.Tools;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tests
+namespace ChangeLogTool.Tests
 {
     [TestClass]
     public class ReleaserManagerTests

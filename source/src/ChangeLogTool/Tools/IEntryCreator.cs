@@ -1,7 +1,7 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
+﻿using ChangeLogTool.CommandLineOptions;
 
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tools
+namespace ChangeLogTool.Tools
 {
     public interface IEntryCreator
     {

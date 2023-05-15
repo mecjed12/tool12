@@ -1,10 +1,10 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions;
-using Buhler.IoT.Environment.ChangeLogTool.Exceptions;
-using Buhler.IoT.Environment.ChangeLogTool.Helper;
+﻿using ChangeLogTool.CommandLineOptions;
+using ChangeLogTool.Exceptions;
+using ChangeLogTool.Helper;
 using CommandLine;
 using System;
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Tools
+namespace ChangeLogTool.Tools
 {
     public class CliExecutor : ICliExecutor
     {

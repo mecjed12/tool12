@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeLogTool", "src\Change
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6D267781-4C38-4B3D-9E6C-18A1D41E70C5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buhler.IoT.Environment.ChangeLogTool.Tests", "tests\Buhler.IoT.Environment.ChangeLogTool.Tests\Buhler.IoT.Environment.ChangeLogTool.Tests.csproj", "{6E909424-2722-4BB1-A08D-B85511800A14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeLogTool.Tests", "tests\Buhler.IoT.Environment.ChangeLogTool.Tests\ChangeLogTool.Tests.csproj", "{6E909424-2722-4BB1-A08D-B85511800A14}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AC348C76-104C-4CF4-B7B6-12A04258064C}"
 EndProject

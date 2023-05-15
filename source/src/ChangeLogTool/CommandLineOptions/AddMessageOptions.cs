@@ -1,4 +1,4 @@
-﻿namespace Buhler.IoT.Environment.ChangeLogTool.CommandLineOptions
+﻿namespace ChangeLogTool.CommandLineOptions
 {
     using CommandLine;
 

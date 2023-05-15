@@ -1,9 +1,9 @@
-﻿using Buhler.IoT.Environment.ChangeLogTool.Config;
+﻿using ChangeLogTool.Config;
 using System.Diagnostics.CodeAnalysis;
 using System.IO;
 
 
-namespace Buhler.IoT.Environment.ChangeLogTool.Wrapper
+namespace ChangeLogTool.Wrapper
 {
     [ExcludeFromCodeCoverage]
     public class DirectoryInfoWrapper : IDirectoryInfoWrapper
